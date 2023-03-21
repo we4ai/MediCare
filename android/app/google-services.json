@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1020083738101",
+    "firebase_url": "https://medicare4care-default-rtdb.firebaseio.com",
+    "project_id": "medicare4care",
+    "storage_bucket": "medicare4care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1020083738101:android:2efd15667617807eaffcbc",
+        "android_client_info": {
+          "package_name": "com.rkcoders.ru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1020083738101-i2mk7ha3eo2sech6sk8mb4l3u7jfbmgq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rkcoders.ru",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "1020083738101-iaagccvg5tf4shrb91b0uhag5a33627v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoyGrjh-kquc_zhrFqtTbCFACs_R1PCZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1020083738101-gq5rqvqvugao9d8jhnepjl8o28ho3nv2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1020083738101-7bb68u8bl4nva9940vkho3cp37ipi4tf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rkcoders"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
